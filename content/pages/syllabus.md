@@ -70,16 +70,93 @@ Grading
 
 A failing grade may, at the discretion of the instructor, be assigned for failure of any single component of the course.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments | 10% (and quizzes) |
-| Two Midterms | 20% |
-| Final | 15% |
-| Short Paper | 10% |
-| Long Paper | 20% |
-| Participation | 10% |
-| Presentation | 10% |
-| Two Concerts | 5% (attendance and one to three sentences total) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10% (and quizzes)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Midterms
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Paper
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Long Paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Concerts
+{{< tdclose >}}
+{{< tdopen >}}
+5% (attendance and one to three sentences total)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
@@ -87,16 +164,147 @@ A failing grade may, at the discretion of the instructor, be assigned for failur
 
 Many assignments and questions on exams will be graded 0-5 (some assignments will be weighed more than others, however). The scale will be very different than what you might be used to. **Expect to get score in the 2-4 range**. 60% of the typical grading scale is wasted on failing grades, while only 20% of the scale (80%-100%) decides between adequate and exceptional answers. The expectation here is that most answers will be good or better and that we don't need to waste the scale on work that does not meet this expectation:
 
-| QUALITY OF WORK | TYPICAL SCALE | THIS SCALE | APPOXIMATE GRADE |
-| --- | --- | --- | --- |
-| Exceptional | 5 (100%) | 5 (100%) | A+ |
-| Superb | 4.8 (96%) | 4.5 (90%) | A |
-| Excellent | 4.6 (92%) | 4 (80%) | A- (3.5=A-/B+) |
-| Very Good | 4.4 (88%) | 3 (60%) | B+ |
-| Good | 4.25 (85%) | 2.5 (50%) | B |
-| Acceptable to Adequate | 4 (80%) | 2 (40%) | B-/C+ (1.75=C) |
-| Barely Adequate | 3.5 (70%) | 1.5 (30%) | C- |
-| Substantially Flawed | 3 or lower (60%) | 1 or lower (20%) | D or F 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+QUALITY OF WORK
+{{< thclose >}}
+{{< thopen >}}
+TYPICAL SCALE
+{{< thclose >}}
+{{< thopen >}}
+THIS SCALE
+{{< thclose >}}
+{{< thopen >}}
+APPOXIMATE GRADE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exceptional
+{{< tdclose >}}
+{{< tdopen >}}
+5 (100%)
+{{< tdclose >}}
+{{< tdopen >}}
+5 (100%)
+{{< tdclose >}}
+{{< tdopen >}}
+A+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Superb
+{{< tdclose >}}
+{{< tdopen >}}
+4.8 (96%)
+{{< tdclose >}}
+{{< tdopen >}}
+4.5 (90%)
+{{< tdclose >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Excellent
+{{< tdclose >}}
+{{< tdopen >}}
+4.6 (92%)
+{{< tdclose >}}
+{{< tdopen >}}
+4 (80%)
+{{< tdclose >}}
+{{< tdopen >}}
+A- (3.5=A-/B+)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Very Good
+{{< tdclose >}}
+{{< tdopen >}}
+4.4 (88%)
+{{< tdclose >}}
+{{< tdopen >}}
+3 (60%)
+{{< tdclose >}}
+{{< tdopen >}}
+B+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Good
+{{< tdclose >}}
+{{< tdopen >}}
+4.25 (85%)
+{{< tdclose >}}
+{{< tdopen >}}
+2.5 (50%)
+{{< tdclose >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Acceptable to Adequate
+{{< tdclose >}}
+{{< tdopen >}}
+4 (80%)
+{{< tdclose >}}
+{{< tdopen >}}
+2 (40%)
+{{< tdclose >}}
+{{< tdopen >}}
+B-/C+ (1.75=C)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Barely Adequate
+{{< tdclose >}}
+{{< tdopen >}}
+3.5 (70%)
+{{< tdclose >}}
+{{< tdopen >}}
+1.5 (30%)
+{{< tdclose >}}
+{{< tdopen >}}
+C-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Substantially Flawed
+{{< tdclose >}}
+{{< tdopen >}}
+3 or lower (60%)
+{{< tdclose >}}
+{{< tdopen >}}
+1 or lower (20%)
+{{< tdclose >}}
+{{< tdopen >}}
+D or F
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
@@ -107,33 +315,641 @@ The final consequence of the scale is it lets me reserve the grade of '5' for tr
 {{< anchor "calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| LEC # | TOPICS | WORKS | KEY DATES |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Part 1: European Music Before WWII** {{< br >}}{{< br >}} Composers and ideas which gained in importance before 1939 or at least 1945. Some works studied will be from as late as 1956 but in "older" styles. {{< br >}}{{< br >}} {{< /td-colspan >}} ||||
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Antecedents and the State of Music, 1899. The "Long Nineteenth Century." 1900-1960: the big questions. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dvořák, A. _Symphony No. 9 in E-minor_, Op. 95 ("From the New World"), 1893. {{< br >}}{{< br >}} Strauss, R. _Don Quixote_, Op. 35. Themes and variations 1-2, 1897. {{< br >}}{{< br >}} Wagner, R. _Tristan und Isolde._ Prelude, 1859. {{< br >}}{{< br >}} Joplin, S. _Maple Leaf Rag_, 1899. {{< br >}}{{< br >}}  |  |
-| 2 | Stravinsky Throws Down the Gauntlet |  {{< br >}}{{< br >}} Stravinsky, Igor. _Petrushka_, 1911. {{< br >}}{{< br >}} ———. _Le Sacre du Printemps_ (The Rite of Spring), 1913. {{< br >}}{{< br >}}  |  |
-| 3 | Bartok |  {{< br >}}{{< br >}} Bartók, Bela. _Mikrokosmos_, 1926, 1932-1939. {{< br >}}{{< br >}} ———. _String Quartet No. 4_, mvmt. 1, 1928. {{< br >}}{{< br >}} ———. _Music for Strings, Percussion, and Celesta_, 1936. {{< br >}}{{< br >}} Ravel, Maurice. _Ma mère l'oye_, 1911-12. {{< br >}}{{< br >}}  |  |
-| 4 | German Music between the Wars (And a Little Before and After...) |  {{< br >}}{{< br >}} Hindemith, Paul. _Symphony in B-flat for Band_, 1956. {{< br >}}{{< br >}} Weill, Kurt, and Bertolt Brecht. _Aufstieg und Fall der Stadt Mahagonny (The Rise and Fall of the City of Mahagonny_), 1929 based on material from 1927. {{< br >}}{{< br >}}  |  |
-| 5 | The Second Viennese School: Tonality and Atonality |  {{< br >}}{{< br >}} Schoenberg, Arnold. _Verklärte Nacht_, 1899. {{< br >}}{{< br >}} ———. _Six little piano pieces_, 1911. {{< br >}}{{< br >}} ———. _Pierrot Lunaire_ op. 21, 1912. {{< br >}}{{< br >}} Webern, Anton. _Fünf Sätze_ (Five movements) _for String Quartet_, Op. 5, mvmts. 1 and 4, 1909. {{< br >}}{{< br >}} Berg, Alban. _Wozzeck_, 1917-1922. {{< br >}}{{< br >}}  |  |
-| 6 | The Second Viennese School: Twelve-Tone Tonality |  {{< br >}}{{< br >}} Schoenberg, Arnold. _String Quartet No. 4,_ Op. 37, 1936. 1st mvmt. {{< br >}}{{< br >}} Webern, Anton. _Symphonie_, Op. 21, 1929. {{< br >}}{{< br >}}  | Worksheet due: Intervals and Functions - Fünf Sätze |
-| 7 |  {{< br >}}{{< br >}} Neoclassicism and Stravinsky (ca. 1920-1952) {{< br >}}{{< br >}} First Unit Test {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Prokofiev, Sergei. _Symphony No. 1_ ("Classical"), Op. 25, 1917. Mvmt. 1. {{< br >}}{{< br >}} Stravinsky, Igor. _Symphony of Psalms_, 1930, mvmt. 1. {{< br >}}{{< br >}} ———. _The Rake's Progress_, 1951. {{< br >}}{{< br >}}  |  |
-| {{< td-colspan 4 >}}**Part 2: American Music Before WWII**{{< /td-colspan >}} ||||
-| 8 | Introduction; Antecedents |  {{< br >}}{{< br >}} Sousa, John Philip. _Washington Post March_, 1889. {{< br >}}{{< br >}} Beach, Amy. _Mass in E-flat_, Op. 5: Gloria, 1890. {{< br >}}{{< br >}} Chadwick, George. _Symphonic Sketches_, mvmt. 2, 1895-1904. {{< br >}}{{< br >}}  | Worksheet due: Twelve-tone Row |
-| 9 | Charles Ives |  {{< br >}}{{< br >}} Ives, Charles. "General William Booth Enters Heaven," song, 1914, rev. 1933. {{< br >}}{{< br >}} ———. _Three Places in New England_, mvmts. 1 and 2, 1929, from mvmts. dating as far back as 1915. {{< br >}}{{< br >}} ———. Second Piano Sonata, "Concord, Mass. 1840-60" (1916-19; rev. from 1920-40) III. "The Alcotts," IV. "Thoreau." {{< br >}}{{< br >}}  |  |
-| 10 | Ruth Crawford Seeger and Other American Modernists |  {{< br >}}{{< br >}} Seeger, Ruth Crawford. _String Quartet_, 1931. {{< br >}}{{< br >}} ———. _Ricercare 2: "Chinaman, laundryman"_, 1932. {{< br >}}{{< br >}} ———. _Piano Study in Mixed Accents_, 1930. {{< br >}}{{< br >}} Ruggles, Carl. _Sun-Treader_, 1926-1931. {{< br >}}{{< br >}}  | First paper due |
-| 11 | The "Art-Scientists": Cowell, Antheil, Varese |  {{< br >}}{{< br >}} Cowell, Henry. Piano Works, mostly 1917-1925. {{< br >}}{{< br >}} Antheil, George. _Ballet Mécanique_, 1925. {{< br >}}{{< br >}} Varèse, Edgard. _Ionisation_, 1931. {{< br >}}{{< br >}}  |  |
-| 12 | Still, Gershwin (And Bernstein) |  {{< br >}}{{< br >}} Still, William Grant. _Afro-American Symphony_, 1930, mvmts. 1 and 3. {{< br >}}{{< br >}} Gershwin, George. _Rhapsody in Blue_, 1924. {{< br >}}{{< br >}} Bernstein, Leonard. _West Side Story_, 1957. (If time.) {{< br >}}{{< br >}}  |  |
-| 13 | Aaron Copland (with guest lecturer) |  {{< br >}}{{< br >}} Copland, Aaron. _Piano Variations_, 1930. {{< br >}}{{< br >}} ———. _Appalachian Spring_, 1944. {{< br >}}{{< br >}}  |  |
-| 14 |  {{< br >}}{{< br >}} Virgil Thomson {{< br >}}{{< br >}} Second Unit Test {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Thomson, Virgil. _Four Saints in Three Acts_, 1928; orch, 1933; fp. 1934. {{< br >}}{{< br >}}  |  |
-| {{< td-colspan 4 >}}**Part 3: Music During and After WWII**{{< /td-colspan >}} ||||
-| 15 | The Continued Tonal Tradition I: Britten and Barber |  {{< br >}}{{< br >}} Britten, Benjamin. _Peter Grimes_, 1945. {{< br >}}{{< br >}} Barber, Samuel. _Knoxvile: Summer of 1915_, 1947. {{< br >}}{{< br >}}  |  |
-| 16 | The Continued Tonal Tradition II: Shostakovich |  {{< br >}}{{< br >}} Shostakovich, Dmitri. _Symphony No. 7 in C major_, "Leningrad," Op. 60, 1941. {{< br >}}{{< br >}} ———. _String Quartet No. 8 in C minor_, Op. 110, 1960. {{< br >}}{{< br >}}  |  |
-| 17 | Oliver Messiaen |  {{< br >}}{{< br >}} Messiaen, Oliver. _Quartet for the End of Time_, 1942. {{< br >}}{{< br >}} ———. _Quatre études de rhythme,_ 2: Mode de valeurs et d'intensités, 1949. {{< br >}}{{< br >}} ———. _Oiseaux exotiques_, 1959. {{< br >}}{{< br >}}  |  |
-| 18 | Total Serialism 1: Babbitt and Stockhausen |  {{< br >}}{{< br >}} Babbitt, Milton. _Three Compositions for Piano_, 1947. {{< br >}}{{< br >}} ———. _Composition for Four Instruments_, 1948. {{< br >}}{{< br >}} Stockhausen, Karlheinz. _Kreuzspiel_, 1951, rev. 1959. {{< br >}}{{< br >}}  |  |
-| 19 | Serialism 2: Nono and Stravinsky |  {{< br >}}{{< br >}} Nono, Luigi. _Il canto sospeso_, 1956. {{< br >}}{{< br >}} Stravinsky, Igor. _Agon_, 1957. {{< br >}}{{< br >}} ———. _Elegy for J. F. K._, 1964. {{< br >}}{{< br >}}  |  |
-| 20 | Boulez, Carter and the Legacy of Serial Aesthetic |  {{< br >}}{{< br >}} Boulez, Pierre. _Le Marteau sans maître (pour voix d'alto et 6 instruments_), 1958. {{< br >}}{{< br >}} Carter, Elliot. _String Quartet No.2_, 1959. {{< br >}}{{< br >}} ———. _Double Concerto for Harpsichord and Piano_, 1961. (Excerpts, optional.) {{< br >}}{{< br >}}  |  |
-| 21 | Electronic Music |  {{< br >}}{{< br >}} Stockhausen, Karlheinz. _Gesang der Jünglinge_, 1956. {{< br >}}{{< br >}} Varèse, Edgard. _Poem électronique_, 1958. {{< br >}}{{< br >}} Babbitt, Milton. _Philomel_, 1964. {{< br >}}{{< br >}}  |  |
-| 22 | Cage and Aleatory |  {{< br >}}{{< br >}} Mozart, W. A. _Musikalisches Würfelspiel_, 1756-1791. (Musical Dice Game) {{< br >}}{{< br >}} Cage, John. _In a landscape_ (for piano), 1948. {{< br >}}{{< br >}} ———. _Sonatas and Interludes for Prepared Piano,_ Sonatas 1-4, Interlude 1, 1948. {{< br >}}{{< br >}} ———. _TV Köln_ (for piano), 1958. {{< br >}}{{< br >}} ———. _Music of Changes book 1_ (piano), 1951. {{< br >}}{{< br >}} ———. _Imaginary Landscape no. 4 for 12 radios_, 1951. {{< br >}}{{< br >}} ———. _4'33"_, 1956. {{< br >}}{{< br >}}  |  |
-| 23 |  {{< br >}}{{< br >}} Aleatory 2: Open Form, New York School and Fluxus {{< br >}}{{< br >}} (Bring Instruments Today!) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Stockhausen, Karlheinz. _KLAVIERSTÜCK XI_, 1956. {{< br >}}{{< br >}} Wolff, Christian. _Burdocks_, 1971. {{< br >}}{{< br >}} Feldman, Morton. _Straits of Magelan_, 1961. {{< br >}}{{< br >}} ———. _De Kooning_, 1963. {{< br >}}{{< br >}}  |  |
-| 24 | Nancarrow and Partch: Two American Originals |  {{< br >}}{{< br >}} Nancarrow, Conlon. _Studies for Player Piano_, 1950s and early 60s. {{< br >}}{{< br >}} Partch, Harry. _Barstow_, 1941, rev. 1954/1968. {{< br >}}{{< br >}} ———. _Delusion of the Fury_, 1969. {{< br >}}{{< br >}}  | Final paper due |
-|  | Third Unit Test |  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+WORKS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 1: European Music Before WWII**
+
+Composers and ideas which gained in importance before 1939 or at least 1945. Some works studied will be from as late as 1956 but in "older" styles.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Antecedents and the State of Music, 1899. The "Long Nineteenth Century." 1900-1960: the big questions.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dvořák, A. _Symphony No. 9 in E-minor_, Op. 95 ("From the New World"), 1893.
+
+Strauss, R. _Don Quixote_, Op. 35. Themes and variations 1-2, 1897.
+
+Wagner, R. _Tristan und Isolde._ Prelude, 1859.
+
+Joplin, S. _Maple Leaf Rag_, 1899.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Stravinsky Throws Down the Gauntlet
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stravinsky, Igor. _Petrushka_, 1911.
+
+———. _Le Sacre du Printemps_ (The Rite of Spring), 1913.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Bartok
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bartók, Bela. _Mikrokosmos_, 1926, 1932-1939.
+
+———. _String Quartet No. 4_, mvmt. 1, 1928.
+
+———. _Music for Strings, Percussion, and Celesta_, 1936.
+
+Ravel, Maurice. _Ma mère l'oye_, 1911-12.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+German Music between the Wars (And a Little Before and After...)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hindemith, Paul. _Symphony in B-flat for Band_, 1956.
+
+Weill, Kurt, and Bertolt Brecht. _Aufstieg und Fall der Stadt Mahagonny (The Rise and Fall of the City of Mahagonny_), 1929 based on material from 1927.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Second Viennese School: Tonality and Atonality
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schoenberg, Arnold. _Verklärte Nacht_, 1899.
+
+———. _Six little piano pieces_, 1911.
+
+———. _Pierrot Lunaire_ op. 21, 1912.
+
+Webern, Anton. _Fünf Sätze_ (Five movements) _for String Quartet_, Op. 5, mvmts. 1 and 4, 1909.
+
+Berg, Alban. _Wozzeck_, 1917-1922.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Second Viennese School: Twelve-Tone Tonality
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schoenberg, Arnold. _String Quartet No. 4,_ Op. 37, 1936. 1st mvmt.
+
+Webern, Anton. _Symphonie_, Op. 21, 1929.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Worksheet due: Intervals and Functions - Fünf Sätze
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Neoclassicism and Stravinsky (ca. 1920-1952)
+
+First Unit Test
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prokofiev, Sergei. _Symphony No. 1_ ("Classical"), Op. 25, 1917. Mvmt. 1.
+
+Stravinsky, Igor. _Symphony of Psalms_, 1930, mvmt. 1.
+
+———. _The Rake's Progress_, 1951.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 2: American Music Before WWII**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction; Antecedents
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sousa, John Philip. _Washington Post March_, 1889.
+
+Beach, Amy. _Mass in E-flat_, Op. 5: Gloria, 1890.
+
+Chadwick, George. _Symphonic Sketches_, mvmt. 2, 1895-1904.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Worksheet due: Twelve-tone Row
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Ives
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ives, Charles. "General William Booth Enters Heaven," song, 1914, rev. 1933.
+
+———. _Three Places in New England_, mvmts. 1 and 2, 1929, from mvmts. dating as far back as 1915.
+
+———. Second Piano Sonata, "Concord, Mass. 1840-60" (1916-19; rev. from 1920-40) III. "The Alcotts," IV. "Thoreau."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Ruth Crawford Seeger and Other American Modernists
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Seeger, Ruth Crawford. _String Quartet_, 1931.
+
+———. _Ricercare 2: "Chinaman, laundryman"_, 1932.
+
+———. _Piano Study in Mixed Accents_, 1930.
+
+Ruggles, Carl. _Sun-Treader_, 1926-1931.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The "Art-Scientists": Cowell, Antheil, Varese
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cowell, Henry. Piano Works, mostly 1917-1925.
+
+Antheil, George. _Ballet Mécanique_, 1925.
+
+Varèse, Edgard. _Ionisation_, 1931.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Still, Gershwin (And Bernstein)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Still, William Grant. _Afro-American Symphony_, 1930, mvmts. 1 and 3.
+
+Gershwin, George. _Rhapsody in Blue_, 1924.
+
+Bernstein, Leonard. _West Side Story_, 1957. (If time.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Aaron Copland (with guest lecturer)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Copland, Aaron. _Piano Variations_, 1930.
+
+———. _Appalachian Spring_, 1944.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Virgil Thomson
+
+Second Unit Test
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thomson, Virgil. _Four Saints in Three Acts_, 1928; orch, 1933; fp. 1934.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 3: Music During and After WWII**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The Continued Tonal Tradition I: Britten and Barber
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Britten, Benjamin. _Peter Grimes_, 1945.
+
+Barber, Samuel. _Knoxvile: Summer of 1915_, 1947.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Continued Tonal Tradition II: Shostakovich
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shostakovich, Dmitri. _Symphony No. 7 in C major_, "Leningrad," Op. 60, 1941.
+
+———. _String Quartet No. 8 in C minor_, Op. 110, 1960.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Oliver Messiaen
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Messiaen, Oliver. _Quartet for the End of Time_, 1942.
+
+———. _Quatre études de rhythme,_ 2: Mode de valeurs et d'intensités, 1949.
+
+———. _Oiseaux exotiques_, 1959.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Total Serialism 1: Babbitt and Stockhausen
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Babbitt, Milton. _Three Compositions for Piano_, 1947.
+
+———. _Composition for Four Instruments_, 1948.
+
+Stockhausen, Karlheinz. _Kreuzspiel_, 1951, rev. 1959.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Serialism 2: Nono and Stravinsky
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nono, Luigi. _Il canto sospeso_, 1956.
+
+Stravinsky, Igor. _Agon_, 1957.
+
+———. _Elegy for J. F. K._, 1964.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Boulez, Carter and the Legacy of Serial Aesthetic
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Boulez, Pierre. _Le Marteau sans maître (pour voix d'alto et 6 instruments_), 1958.
+
+Carter, Elliot. _String Quartet No.2_, 1959.
+
+———. _Double Concerto for Harpsichord and Piano_, 1961. (Excerpts, optional.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Music
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stockhausen, Karlheinz. _Gesang der Jünglinge_, 1956.
+
+Varèse, Edgard. _Poem électronique_, 1958.
+
+Babbitt, Milton. _Philomel_, 1964.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Cage and Aleatory
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mozart, W. A. _Musikalisches Würfelspiel_, 1756-1791. (Musical Dice Game)
+
+Cage, John. _In a landscape_ (for piano), 1948.
+
+———. _Sonatas and Interludes for Prepared Piano,_ Sonatas 1-4, Interlude 1, 1948.
+
+———. _TV Köln_ (for piano), 1958.
+
+———. _Music of Changes book 1_ (piano), 1951.
+
+———. _Imaginary Landscape no. 4 for 12 radios_, 1951.
+
+———. _4'33"_, 1956.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aleatory 2: Open Form, New York School and Fluxus
+
+(Bring Instruments Today!)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stockhausen, Karlheinz. _KLAVIERSTÜCK XI_, 1956.
+
+Wolff, Christian. _Burdocks_, 1971.
+
+Feldman, Morton. _Straits of Magelan_, 1961.
+
+———. _De Kooning_, 1963.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Nancarrow and Partch: Two American Originals
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nancarrow, Conlon. _Studies for Player Piano_, 1950s and early 60s.
+
+Partch, Harry. _Barstow_, 1941, rev. 1954/1968.
+
+———. _Delusion of the Fury_, 1969.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Third Unit Test
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
